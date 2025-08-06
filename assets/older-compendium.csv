@@ -1,0 +1,38 @@
+Code,METS,Major Heading,Activity Description,Preferred Intensity Match,Tolerance Match,Social Context
+0101060,5.3,Bicycling,"Bicycling, stationary, general, moderate effort",Moderate Preference,Moderate Tolerance Match,Solo
+0101160,4.3,Bicycling,"Bicycling, stationary, 30-50 watts, moderate effort",Moderate Preference,Moderate Tolerance Match,Solo
+0101260,6.3,Bicycling,"Bicycling, stationary, 90-100 watts, vigorous effort",High Preference,High Tolerance Match,Solo
+0101360,7.8,Bicycling,"Bicycling, stationary, 101-160 watts, vigorous effort",High Preference,High Tolerance Match,Solo
+0101760,4.5,Bicycling,"Bicycling, stationary, 51-89 watts, moderate-to-vigorous effort",Moderate Preference,Moderate Tolerance Match,Solo
+0202260,3.5,Conditioning Activities,"Calisthenics (e.g., push ups, sit ups, pull-ups, lunges), moderate effort",Moderate Preference,Moderate Tolerance Match,No Preference
+0203560,4.5,Conditioning Activities,"Circuit training, Parcour-type, moderate effort",Moderate Preference,Moderate Tolerance Match,No Preference
+0204760,3,Conditioning Activities,"Elliptical trainer, light effort",Moderate Preference,Moderate Tolerance Match,No Preference
+0205160,3,Conditioning Activities,"Resistance (weight) training, squats , light effort",Moderate Preference,Moderate Tolerance Match,No Preference
+0205360,2.3,Conditioning Activities,"Resistance Training, general, light effort",Low Preference,Low Tolerance Match,No Preference
+0205460,4.3,Conditioning Activities,"Resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance",Moderate Preference,Moderate Tolerance Match,No Preference
+0206260,5,Conditioning Activities,"Health club exercise, conditioning classes",Moderate Preference,Moderate Tolerance Match,Social
+0206360,3.8,Conditioning Activities,"Health club exercise, conditioning classes, chair-based",Moderate Preference,Moderate Tolerance Match,Social
+0207260,6.5,Conditioning Activities,"Rowing, stationary, 50 to 99 watts, moderate-to-vigorous effort",High Preference,High Tolerance Match,Solo
+0207360,9,Conditioning Activities,"Rowing, stationary, 100 to 149 watts, vigorous effort",High Preference,High Tolerance Match,Solo
+0211360,3.5,Conditioning Activities,"Therapeutic exercise ball, Fitball exercise, chair exercise",Moderate Preference,Moderate Tolerance Match,No Preference
+0219060,2.5,Conditioning Activities,"Yoga, general",Low Preference,Low Tolerance Match,No Preference
+0219160,2.8,Conditioning Activities,"Yoga, chair, general",Low Preference,Low Tolerance Match,No Preference
+0221060,3.8,Conditioning Activities,"Tai Chi, general",Moderate Preference,Moderate Tolerance Match,Social
+0221160,2.8,Conditioning Activities,"Tai Chi, chair, general",Low Preference,Low Tolerance Match,No Preference
+0303060,6,Dancing,"Ballroom Dance (tango, slow waltz, foxtrot)",High Preference,High Tolerance Match,Social
+0303160,6.3,Dancing,"Dance class, General",High Preference,High Tolerance Match,Social
+0303260,7.3,Dancing,"Smooth Dance (Mazurka, Viennese Walk, Polka)",High Preference,High Tolerance Match,No Preference
+0501060,4.3,Home Activities,"Cleaning, sweeping carpet or floors, general",Moderate Preference,Moderate Tolerance Match,Solo
+0502160,4.3,Home Activities,"Cleaning, mopping, standing, Moderate effort",Moderate Preference,Moderate Tolerance Match,Solo
+0502260,3.5,Home Activities,"Cleaning windows, washing windows, general",Moderate Preference,Moderate Tolerance Match,Solo
+0502360,3,Home Activities,"Cleaning, mopping, standing, light effort",Moderate Preference,Moderate Tolerance Match,Solo
+0503260,4,Home Activities,"Dusting or polishing furniture, general",Moderate Preference,Moderate Tolerance Match,Solo
+0504060,4.5,Home Activities,"Cleaning, carrying out trash",Moderate Preference,Moderate Tolerance Match,Solo
+0504160,2.5,Home Activities,"Wash dishes, standing or in general (not broken into stand/walk components)",Low Preference,Low Tolerance Match,Solo
+0504360,4.3,Home Activities,"Cleaning, vacuuming, general, moderate effort",Moderate Preference,Moderate Tolerance Match,Solo
+0505160,2.8,Home Activities,"Cooking, serving food, setting table, implied walking or standing",Low Preference,Low Tolerance Match,No Preference
+0505560,3,Home Activities,"Putting away groceries/dishes (e.g. carrying groceries, storing dishes in cabinet),",Moderate Preference,Moderate Tolerance Match,Solo
+0506060,3.8,Home Activities,"Food shopping with or without a grocery cart, standing or walking",Moderate Preference,Moderate Tolerance Match,No Preference
+0507060,2.8,Home Activities,Ironing,Low Preference,Low Tolerance Match,Solo
+0509260,3.5,Home Activities,"Laundry, hanging wash, washing clothes by hand, moderate effort",Moderate Preference,Moderate Tolerance Match,Solo
+0510060,4,Home Activities,"Making bed, changing linens",Moderate Preference,Moderate Tolerance Match,Solo
